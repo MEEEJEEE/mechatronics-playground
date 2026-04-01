@@ -3,3 +3,6 @@
 
 ## 라즈베리파이 공식 튜토리얼 문서
 https://www.raspberrypi.com/documentation/computers/getting-started.html#raspberry-pi-imager
+
+##mechatronics-example python code
+https://github.com/jooyongsim/Mecha2026
